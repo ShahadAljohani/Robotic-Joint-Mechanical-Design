@@ -142,15 +142,4 @@ to compensate the drawbacks:
   
 - upgrade the power supply with proper voltage and current to help maintain speed
 
--------------------
-
-##### Purchase links: 
-
-[AGFRC TRX4M](https://www.amazon.com/s?k=AGFRC+TRX4M&crid=39UAQJ3NN8R4B&sprefix=agfrc+trx4m%2Caps%2C555&ref=nb_sb_noss)
-
-[Hitec HS-7954SH](https://www.amazon.com/s?k=Hitec+HS-7954SH&crid=16JXEIUJME0XB&sprefix=hitec+hs-7954sh%2Caps%2C394&ref=nb_sb_noss_1)
-
-[Traxxas 2255](https://www.amazon.com/s?k=Traxxas+2255&crid=29F1L1W65Y47J&sprefix=traxxas+2255%2Caps%2C216&ref=nb_sb_noss_1)
-
-
 
