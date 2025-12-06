@@ -1,4 +1,4 @@
-# SuT_Mechanical_Tasks
+# Robotic-Joint-Mechanical-Design
 #### Tasks: 
 
 [Task 1](#ref1)
